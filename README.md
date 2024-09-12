@@ -1,0 +1,1 @@
+Este proyecto es el Trabajo de fin de master de Víctor García Chico, alumno del máster de análisis avanzado de datos multivariantes y Big Data de la Universidad de Salamanca. Consiste en la aplicación y optimización de técnicas de ML para la predicción de ictus
